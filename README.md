@@ -11,9 +11,8 @@
 * 如果有疑问, 欢迎 email: 798800165@qq.com
 
 ## .env文件必要参数 list
-* OPENAI_API_KEY=
-* SERPER_API_KEY=
-* BROWSERLESS_API_KEY=
+SERPER_API_KEY 申请地址 ：https://serpapi.com/
+BROWSERLESS_API_KEY=  申请不了
   
 ## 视频讲解
 * B站       https://www.bilibili.com/video/BV1JV411F7Yj/
